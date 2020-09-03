@@ -1,0 +1,41 @@
+2020-09-03 11:59:38,699 INFO  [log] Response code is 200
+2020-09-03 11:59:40,704 INFO  [log] Response code is 200
+2020-09-03 11:59:40,724 INFO  [log] upskills_admin
+2020-09-03 11:59:41,185 INFO  [log] Response code is 200
+2020-09-03 11:59:41,187 INFO  [log] upskills_admin
+2020-09-03 11:59:41,546 INFO  [log] Response code is 200
+2020-09-03 11:59:42,573 INFO  [log] Response code is 200
+2020-09-03 11:59:42,609 INFO  [log] 2
+2020-09-03 11:59:43,731 INFO  [log] [data:[id:2461], error:[], success:1]
+2020-09-03 11:59:43,732 INFO  [log] 2461
+2020-09-03 11:59:44,127 INFO  [log] Response code is 200
+2020-09-03 11:59:44,131 INFO  [log] 2461
+2020-09-03 11:59:44,871 INFO  [log] 3
+2020-09-03 11:59:44,871 INFO  [log] 2419 + 14000.0000 + Lenovo IdeaPad S500 extended + Lenovo IdeaPad S500 extended
+2020-09-03 11:59:45,231 INFO  [log] 2430 + 14000.0000 + Lenovo IdeaPad S500 extended + Lenovo IdeaPad S500 extended
+2020-09-03 11:59:46,254 INFO  [log] Response code is 200
+2020-09-03 11:59:55,571 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <PRODUCTDETAILS.MODEL>Lenovo Ideapad Laptop</PRODUCTDETAILS.MODEL>
+            <PRODUCTDETAILS.QUANTITY>1000</PRODUCTDETAILS.QUANTITY>
+            <PRODUCTDETAILS.PRICE>44000.0000</PRODUCTDETAILS.PRICE>
+            <PRODUCTDETAILS.NAME>Lenovo IdeaPad S100</PRODUCTDETAILS.NAME>
+            <PRODUCTDETAILS.METATITLE>Lenovo IdeaPad S100</PRODUCTDETAILS.METATITLE>
+        </Row>
+        <Row rowNumber="2">
+            <PRODUCTDETAILS.MODEL>Lenovo Ideapad Laptop</PRODUCTDETAILS.MODEL>
+            <PRODUCTDETAILS.QUANTITY>1000</PRODUCTDETAILS.QUANTITY>
+            <PRODUCTDETAILS.PRICE>44000.0000</PRODUCTDETAILS.PRICE>
+            <PRODUCTDETAILS.NAME>Lenovo IdeaPad S100</PRODUCTDETAILS.NAME>
+            <PRODUCTDETAILS.METATITLE>Lenovo IdeaPad S100</PRODUCTDETAILS.METATITLE>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-09-03 11:59:56,098 INFO  [log] 2
+2020-09-03 11:59:56,141 INFO  [log] Lenovo Ideapad Laptop + 1000 + 44000.0000 + Lenovo IdeaPad S100 + Lenovo IdeaPad S100
+2020-09-03 11:59:56,466 INFO  [log] Lenovo Ideapad Laptop + 1000 + 44000.0000 + Lenovo IdeaPad S100 + Lenovo IdeaPad S100
+2020-09-03 11:59:58,097 INFO  [log] 3
+2020-09-03 11:59:58,102 INFO  [log] 2419 + 14000.0000 + Lenovo IdeaPad S500 extended + Lenovo IdeaPad S500 extended
+2020-09-03 11:59:58,421 INFO  [log] 2430 + 14000.0000 + Lenovo IdeaPad S500 extended + Lenovo IdeaPad S500 extended
